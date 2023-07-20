@@ -1,8 +1,6 @@
 <template>
-  <div class="">
-    <img alt="Logo JustAdmin" class="" src="" />
-    <span class="text-gray-700 shadow-md p-3 border-gray-300 ml-4 h-24 flex"
-      >JustAdmin</span
-    >
-  </div>
+	<div class="relative z-10 flex items-center justify-start gap-3">
+		<img alt="Logo JustAdmin" src="../../assets/icons/logo.svg" />
+		<span class="text-2xl font-bold leading-9 text-white">JustAdmin</span>
+	</div>
 </template>

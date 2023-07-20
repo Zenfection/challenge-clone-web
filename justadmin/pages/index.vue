@@ -1,7 +1,10 @@
-<script setup lang="ts"></script>
+<script lang="ts" setup></script>
 
 <template>
-  <NavBar />
+	<div class="relative">
+		<Header />
+		<HomeHero />
+	</div>
 </template>
 
 <style scoped></style>
