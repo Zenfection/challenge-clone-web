@@ -4,7 +4,8 @@
 	<div class="relative">
 		<Header />
 		<HomeHero />
+		<HomeBackgroundCover />
 	</div>
+	<HomeSponsor />
+	<HomeTeamExpanse />
 </template>
-
-<style scoped></style>
