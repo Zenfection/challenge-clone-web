@@ -8,4 +8,11 @@
 	</div>
 	<HomeSponsor />
 	<HomeTeamExpanse />
+	<HomeForWho />
+	<HomeCustomerReview />
+
+	<div class="relative">
+		<HomeUseProduct />
+		<Footer class="relative z-10" />
+	</div>
 </template>

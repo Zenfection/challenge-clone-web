@@ -1,6 +1,4 @@
-<script lang="ts" setup>
-	import Button from "~/components/general/Button.vue";
-</script>
+<script lang="ts" setup></script>
 
 <template>
 	<header class="flex items-center justify-between px-28 py-8">
